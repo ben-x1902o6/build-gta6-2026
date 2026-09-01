@@ -45,7 +45,6 @@ Community-shared early access installation package for Grand Theft Auto VI. Full
 ### Graphics & Performance
 - New benchmark tool for performance testing
 - Enhanced graphics configuration panel with real-time preview
-- Improved shader compilation with reduced stutter
 - Optimized memory usage during gameplay
 - Additional scaling options for ultra-wide monitors
 - DLSS and FSR support for compatible graphics cards
